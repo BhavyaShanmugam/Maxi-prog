@@ -1,0 +1,2 @@
+string=set(input())#getting the string and removing the duplicates
+print(len(string))#printing the length
